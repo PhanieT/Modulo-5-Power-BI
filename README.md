@@ -7,7 +7,7 @@
 1.Tarjetas para visualizar 
 
 -El total de ventas
--El total de ordenes}
+-El total de ordenes
 -El total de países en los que se hicieron transacciones.
 
 2.Se agregaron gráficos representando 
